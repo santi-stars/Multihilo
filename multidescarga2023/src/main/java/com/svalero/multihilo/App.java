@@ -1,5 +1,6 @@
 package com.svalero.multihilo;
 
+import com.svalero.multihilo.controller.AppController;
 import com.svalero.multihilo.util.R;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

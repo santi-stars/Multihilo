@@ -40,7 +40,7 @@
                         <Insets bottom="12.0" left="12.0" right="12.0" top="12.0" />
                      </HBox.margin>
                   </Button>
-                  <Button fx:id="btDownloadPath" mnemonicParsing="false" onAction="#chooseDownloadPath" text="Cambiar ruta de descarga">
+                  <Button fx:id="btDownloadPath" mnemonicParsing="false" onAction="#chooseDownloadPath" text="Ruta de descarga">
                      <HBox.margin>
                         <Insets bottom="12.0" left="12.0" right="12.0" top="12.0" />
                      </HBox.margin>
