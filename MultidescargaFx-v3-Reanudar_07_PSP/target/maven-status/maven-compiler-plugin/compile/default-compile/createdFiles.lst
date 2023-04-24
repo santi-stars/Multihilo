@@ -1,0 +1,5 @@
+com\svalero\downloader\App.class
+com\svalero\downloader\controller\DownloadController.class
+com\svalero\downloader\controller\AppController.class
+com\svalero\downloader\util\R.class
+com\svalero\downloader\task\DownloadTask.class

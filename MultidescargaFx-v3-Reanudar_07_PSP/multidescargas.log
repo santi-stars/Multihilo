@@ -1,0 +1,6 @@
+21:13:02.323 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+21:13:11.225 [Thread-3] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+21:13:15.828 [Thread-3] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+21:13:20.034 [Thread-4] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+21:13:31.066 [Thread-4] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+21:13:41.838 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
