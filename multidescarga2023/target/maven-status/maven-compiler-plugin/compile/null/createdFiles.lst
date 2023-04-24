@@ -1,0 +1,5 @@
+com\svalero\multihilo\task\DownloadTask.class
+com\svalero\multihilo\App.class
+com\svalero\multihilo\controller\DownloadController.class
+com\svalero\multihilo\util\R.class
+com\svalero\multihilo\controller\AppController.class
