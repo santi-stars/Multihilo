@@ -1,5 +1,8 @@
 *.iml
 *.idea
+*.vscode
+.iml
+.idea
 .gradle
 /local.properties
 /.idea/caches
@@ -17,3 +20,17 @@ local.properties
 downloadmanager-raul
 MultiDownloader-david
 /multidescarga2023/multidescargas.log
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora archivos de configuración SASS
+.sass-cache

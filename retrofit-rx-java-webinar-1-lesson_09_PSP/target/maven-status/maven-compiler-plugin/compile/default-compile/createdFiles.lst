@@ -1,0 +1,5 @@
+com\svalero\reactive\api\App.class
+com\svalero\reactive\api\service\CodeService.class
+com\svalero\reactive\api\AppLocal.class
+com\svalero\reactive\api\model\Change.class
+com\svalero\reactive\api\service\GerritAPI.class
