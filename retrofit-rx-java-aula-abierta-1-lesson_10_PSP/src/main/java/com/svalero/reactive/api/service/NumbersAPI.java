@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 public interface NumbersAPI {
-    @GET("{number}/{type}?json")
+    @GET("{number}/{type}?json")    // Para la URL "http://numbersapi.com/6/math?json"
     Observable<NumberInformation> getInformation(@Path("number") String number, @Path("type") String type);
 }

@@ -1,0 +1,4 @@
+com\svalero\reactive\api\App.class
+com\svalero\reactive\api\service\NumbersAPI.class
+com\svalero\reactive\api\model\NumberInformation.class
+com\svalero\reactive\api\service\NumbersInformationService.class
